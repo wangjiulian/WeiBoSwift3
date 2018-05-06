@@ -1,0 +1,41 @@
+[
+  {
+    "visitorInfo" : {
+      "imageName" : "",
+      "message" : "关注一些人，回这块看看有什么惊喜"
+    },
+    "className" : "WBHomeViewController",
+    "title" : "首页",
+    "imageName" : "home"
+  },
+  {
+    "visitorInfo" : {
+      "imageName" : "visitordiscover_image_message",
+      "message" : "登录后，别人评论你的微薄，发给你信息，都在这里收到通知"
+    },
+    "className" : "WBMessageViewController",
+    "title" : "消息",
+    "imageName" : "message_center"
+  },
+  {
+    "className" : ""
+  },
+  {
+    "visitorInfo" : {
+      "imageName" : "visitordiscover_image_message",
+      "message" : "登录后，最新、最热微薄尽在掌握，不会再与实事潮流擦肩而过"
+    },
+    "className" : "WBDiscoverViewController",
+    "title" : "发现",
+    "imageName" : "discover"
+  },
+  {
+    "visitorInfo" : {
+      "imageName" : "visitordiscover_image_profile",
+      "message" : "登录后，你的微薄、相册、个人资料都会显示在这里，展示给别人"
+    },
+    "className" : "WBProfileViewController",
+    "title" : "我的",
+    "imageName" : "profile"
+  }
+]
